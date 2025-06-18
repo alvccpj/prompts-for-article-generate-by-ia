@@ -45,7 +45,5 @@ sfdx force:source:deploy -p force-app/main/default/lwc
 
 ## 💬 Vamos conversar?
 - Curtiu essa jornada pelo mundo LWC? Me segue nas redes e fique por dentro de dicas, tutoriais e lives:
-
--🌐 Instagram: @seu_perfil
-
--💼 LinkedIn: linkedin.com/in/seu-perfil
+- 🌐 Instagram: @seu_perfil
+- 💼 LinkedIn: linkedin.com/in/seu-perfil
