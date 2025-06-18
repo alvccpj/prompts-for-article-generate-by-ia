@@ -41,6 +41,8 @@ sfdx force:source:deploy -p force-app/main/default/lwc
 
 # 5) Arraste o componente na Lightning App Builder e pronto!
 
+---
+
 ##💬 Vamos conversar?
 Curtiu essa jornada pelo mundo LWC? Me segue nas redes e fique por dentro de dicas, tutoriais e lives:
 
