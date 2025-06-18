@@ -40,7 +40,7 @@ sfdx force:project:create -n meu-projeto-lwc
 sfdx force:source:deploy -p force-app/main/default/lwc
 
 # 5) Arraste o componente na Lightning App Builder e pronto!
-
+```
 ---
 
 ##💬 Vamos conversar?
